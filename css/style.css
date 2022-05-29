@@ -1,0 +1,23 @@
+/*Created by: Grace S
+*Created on: Apr 2022
+*This CSS file defines the style for index.html
+*ICS2O-Unit3-04-HTML-FarenheitCelsius
+*/
+
+body {
+	background-color: rgb(209, 246, 250);
+  text-align: center;
+}
+
+
+#output {
+  font-weight: bold;
+  background-color: #e8fafc;
+}
+
+h1 {
+	background-color: #f4aaa3;
+  color: rgb(163, 237, 244);
+  padding: 30px;
+}
+
